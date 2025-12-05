@@ -2,7 +2,7 @@ Package: SemanticSearch
 Title: SemanticSearch
 Version: 0.0.0.9000
 Authors@R: 
-    person("Rebecca", "Maltez de Sousa", role = "ctb")
+    person("Rebecca", "Maltez de Sousa", email= "rebecca.maltez.de.sousa@ki.se", role = c("aut","cre")
 Description: Provides functions for word query and counting query words of a given text.
 License: MIT + file LICENSE
 Encoding: UTF-8
