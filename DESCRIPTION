@@ -16,3 +16,5 @@ Imports:
     text2vec,
     tidytext,
     word2vec
+URL: https://github.com/Rebecca-de-Sousa/SemanticSearch
+BugReports: https://github.com/Rebecca-de-Sousa/SemanticSearch/issues
